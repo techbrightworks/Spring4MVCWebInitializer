@@ -1,0 +1,3 @@
+[submodule "Spring4MVCWebInitializer"]
+	path = Spring4MVCWebInitializer
+	url = git@github.com:techbrightworks/Spring4MVCWebInitializer.git

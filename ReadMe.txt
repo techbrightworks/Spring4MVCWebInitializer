@@ -8,4 +8,3 @@ MavenBuild
 6a.mvn tomcat7:run-war would  run with an embedded Apache Tomcat and helps to quickly develop your application 
    without needing to install a standalone Tomcat instance.
 6b.Example url with port 8080, http://localhost:8080/Spring4MVCWebInitializer/helloworld.html 
-6c.If you wanted to use Standalone Tomcat Instance then you can Deploy the war in the Tomcat,version of Tomcat that can be used is 7.0.37.
